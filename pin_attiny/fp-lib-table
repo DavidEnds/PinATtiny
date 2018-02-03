@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pin_attiny)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
